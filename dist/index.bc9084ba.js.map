@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/main.ts"],"sourcesContent":["//import { init as headerEl } from \"./componete/header\";\n\n(function main() {\n  // headerEl();\n})();\n"],"names":[],"version":3,"file":"index.bc9084ba.js.map","sourceRoot":"/__parcel_source_root/"}

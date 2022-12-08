@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.conteiner__text {
+  margin: 30px;
+}
+
+.conteiner__elemente {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+  max-width: 600px;
+  min-width: 360px;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.custon-button {
+  margin-bottom: 5vh;
+}
